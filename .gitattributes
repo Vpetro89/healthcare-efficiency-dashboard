@@ -1,8 +1,2 @@
 *.sql linguist-language=SQL
 *.sql linguist-detectable=true
-
-*.py linguist-detectable=false
-
-*.csv linguist-detectable=false
-*.xlsx linguist-detectable=false
-*.pbix linguist-detectable=false
